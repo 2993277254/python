@@ -8,3 +8,4 @@ else:
     print("xxxx")
 x='a'
 print(x)
+print('x=='+x)
